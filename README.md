@@ -2,4 +2,4 @@
 <h3 align="center"><a href="https://t.me/clickfiBot">👉Click to view result👈</a> </h3>
 
 
-<h4 align="right">Made with <a href=https://github.com/SASHIKUBIVATOR>SASHIKUBIVATOR</a></h4>
+<h4 align="right">Made with <a href=https://github.com/SoberSinceToday>SoberSinceToday</a></h4>
